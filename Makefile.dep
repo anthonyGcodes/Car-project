@@ -1,0 +1,6 @@
+main.o: main.cpp main.h car.h cars.h truck.h delivery.h factory.h
+Car.o: Car.cpp car.h
+Cars.o: Cars.cpp cars.h car.h truck.h delivery.h factory.h
+factory.o: factory.cpp factory.h car.h truck.h delivery.h cars.h
+truck.o: truck.cpp truck.h car.h
+delivery.o: delivery.cpp delivery.h car.h
