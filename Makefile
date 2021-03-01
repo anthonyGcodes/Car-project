@@ -1,4 +1,3 @@
-
 CC = g++
 CFLAGS = -std=c++11 -Wall -g
 SRCS = main.cpp Car.cpp Cars.cpp factory.cpp truck.cpp delivery.cpp
