@@ -1,8 +1,8 @@
-U01 "Trek Soho Deluxe" 8
+T01 "Trek Soho Deluxe" 8
 D01 "Trek Transport+" 8 80
 D02 "Johnny Loco Cargo Cruiser" 8 75
-U02 "Johnny Loco Truck Londoner" 3
-U03 "Johnny Loco Truck Moscow" 1
-U04 "Kona Dew DL" 9
+T02 "Johnny Loco Truck Londoner" 3
+T03 "Johnny Loco Truck Moscow" 1
+T04 "Kona Dew DL" 9
 D03 "Kona Minute" 8 70
 D04 "Kona Ute" 8 100
